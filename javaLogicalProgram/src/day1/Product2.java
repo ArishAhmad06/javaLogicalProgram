@@ -1,6 +1,5 @@
-package Function;
-import java.util.*;
-public class Product {
+package day1;
+public class Product2 {
 
 		public static int multiply(int a, int b) {
 			int product = a*b;
